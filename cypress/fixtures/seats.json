@@ -1,22 +1,22 @@
 [
     {
-        "row": 5,
-        "seat":4
+        "row": 1,
+        "seat":7
     },
     {
-        "row": 1,
-        "seat":5
+        "row": 3,
+        "seat":2
+    },
+    {
+        "row": 5,
+        "seat": 4
     },
     {
         "row": 2,
         "seat": 3
     },
     {
-        "row": 4,
-        "seat": 4
-    },
-    {
-        "row": 3,
+        "row": 6,
         "seat":4
     },
     {
