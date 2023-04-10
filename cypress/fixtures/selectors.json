@@ -1,0 +1,11 @@
+{
+    "title" : ".page-header__title",
+    "day" : "a.page-nav__day",
+    "movie" : ".movie",
+    "time" : ".movie-seances__time",
+    "login" : "[for=\"email\"] > .login__input",
+    "pass" : "[for=\"pwd\"] > .login__input",
+    "authButton" : ".login__button",
+    "filmName" : "[draggable=\"true\"][data-film-id=\"93\"] > .conf-step__movie-title",
+    "weekDay" : ".page-nav__day:nth-child(4)"
+}
