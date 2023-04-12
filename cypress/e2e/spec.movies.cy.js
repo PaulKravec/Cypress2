@@ -6,7 +6,7 @@ describe('site view', () => {
         cy.get('.page-nav__day').should('have.length', 7);
     });
 
-    it.only('ticket reservation', () => {
+    it('ticket reservation', () => {
         cy.visit('/');
         cy.get('.page-nav__day').eq(5).click();
         cy.get('.movie').first().contains('09:00').click();
